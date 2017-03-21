@@ -1,0 +1,28 @@
+{
+  "name": "vadin",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Oscar"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "vaadin-core-elements": "^1.5.0",
+    "angular": "1.6.3",
+    "auth0-lock": "^10.13.0",
+    "auth0.js": "^8.4.0",
+    "angular-lock": "^2.0.1",
+    "angular-jwt": "^0.1.9",
+    "font-awesome": "^4.7.0"
+  }
+}
